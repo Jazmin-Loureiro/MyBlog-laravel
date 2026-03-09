@@ -55,8 +55,8 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Jazmin-Loureiro/MyBlog-laravel myblog
-cd myblog
+git clone https://github.com/Jazmin-Loureiro/MyBlog-laravel 
+cd MyBlog-laravel
 
 # Instalar dependencias de PHP
 composer install
