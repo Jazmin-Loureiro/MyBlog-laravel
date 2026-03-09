@@ -55,7 +55,7 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Jazmin-Loureiro/Laravel-tp1 myblog
+git clone https://github.com/Jazmin-Loureiro/MyBlog-laravel myblog
 cd myblog
 
 # Instalar dependencias de PHP
