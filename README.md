@@ -32,6 +32,12 @@
 
 **MyBlog** es una aplicación web con diseño responsive construida con Laravel que permite a los usuarios autenticados gestionar sus publicaciones y categorías personales. Utiliza Laravel Breeze para el sistema de autenticación y sigue la arquitectura MVC.
 
+🌐 Demo
+
+La aplicación se encuentra desplegada y puede probarse en el siguiente enlace:
+
+👉 https://myblog-laravel-production.up.railway.app
+
 ## 🚀 Tecnologías Utilizadas
 
 - Laravel 10  
